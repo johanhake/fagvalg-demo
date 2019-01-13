@@ -1,6 +1,8 @@
--------
+/*
+---
 name: Fagvalgs-demo
 description: Viser noe HTML/CSS-kode som vil bli vist på en fagvalgs demo
 authors: Johan Hake
 normalize_css: no
--------
+...
+*/
