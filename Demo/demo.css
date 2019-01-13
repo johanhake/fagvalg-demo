@@ -35,7 +35,7 @@ main article img {
     float: right;
 }
 
-@media (max-width: 500px){
+@media (max-width: 700px){
     main {
         grid-template-columns: 1fr 1fr;
     }
