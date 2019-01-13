@@ -1,6 +1,7 @@
 /* CSS (stil og formatering) til nettsiden */
 body {
     font-family: Helvetica, Arial, sans-serif;
+    background-color: darkslategrey;
 }
 
 header, footer{
