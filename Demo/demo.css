@@ -3,9 +3,14 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-header {
+header, footer{
     background-color: lightskyblue;
     color: darkblue;
+}
+
+article{
+    background-color: lightblue;
+    color: darkslateblue;
 }
 
 h1, h3 {
