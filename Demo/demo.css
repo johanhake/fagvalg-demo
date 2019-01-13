@@ -43,4 +43,8 @@ main article img {
     main {
         grid-template-columns: 1fr 1fr;
     }
+
+    #samfunnsfag{
+        grid-column: span 2;
+    }
 }
