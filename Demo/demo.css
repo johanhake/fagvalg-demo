@@ -3,13 +3,18 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+header {
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
 h1, h3 {
     text-align: center;
 }
 
 main {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 main article img {
