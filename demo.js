@@ -1,0 +1,1 @@
+// JavaScript fil til nettsiden
