@@ -1,1 +1,24 @@
 /* CSS (stil og formatering) til nettsiden */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+main article img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+#tekno-hode {
+    width: 200px;
+    float: right;
+}
